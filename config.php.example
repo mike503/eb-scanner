@@ -1,0 +1,4 @@
+<?php
+$config['aws_key'] = '##KEY##';
+$config['aws_secret'] = '##SECRET##';
+$config['aws_region'] = '##REGION##';
